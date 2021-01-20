@@ -1,0 +1,13 @@
+Package: com.apple.file.system
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: dckier99 <email@gmail.com>
+Filename: /apple file system.deb
+Size: 18114
+MD5sum: 34291f44d22cfbbf3eb4bad0ade3b89c
+SHA1: bddaf385263b9aad2b032b2116179f83afd077cc
+SHA256: 287ac4ce1a6e4095e824fd90f71fed301ff7d9508f1cd2d87a7354053e347a3c
+Section: Tweaks
+Description: testing for repo
+Author: Apple File System 
+Name: AppleFile System2021
